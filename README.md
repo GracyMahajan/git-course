@@ -1,2 +1,2 @@
 # git-course
-my name is gracy mahajan
+Hi Everyone!!My name is Gracy Mahajan.I am a CSE student.
