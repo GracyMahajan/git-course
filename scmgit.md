@@ -1,2 +1,1 @@
-This is to raise git conflicts
-and do it this way
+i have it this way
